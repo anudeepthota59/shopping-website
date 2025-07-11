@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Cartoon Astranout T-shirt",
+        "price": 78,
+        "image": "images/products/f1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Green leaf shirt",
+        "price": 80,
+        "image": "images/products/f2.jpg" 
+    },
+    {
+         "id": 3,
+        "name": "Rose printed shirt",
+        "price": 120,
+        "image": "images/products/f3.jpg"
+    },
+    {
+         "id": 4,
+        "name": "Pink Printed shirt",
+        "price": 110,
+        "image": "images/products/f4.jpg"
+    },
+    {
+         "id": 5,
+        "name": "Violet printed shirt",
+        "price": 90,
+        "image": "images/products/f5.jpg"
+    },
+    {
+         "id": 6,
+        "name": "Orange blue shirt",
+        "price": 120,
+        "image": "images/products/f6.jpg"
+    },
+    {
+         "id": 7,
+        "name": "Grey shaded short",
+        "price": 140,
+        "image": "images/products/f7.jpg"
+    },
+    {
+         "id": 8,
+        "name": "Pink grey top",
+        "price": 130,
+        "image": "images/products/f8.jpg"
+    }
+]
